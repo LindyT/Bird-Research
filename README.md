@@ -1,7 +1,7 @@
 # Bird-Research
 Code used for analysing data, calculating home-ranges, and creating graphs.
 
-Suggested citation: Thompson, L.J. (2020) Breakpoint regression for home-range. DOI: 10.5281/zenodo.3743276
+Suggested citation: Thompson, L.J. (2020) Breakpoint regression for monthly home-range. DOI: 10.5281/zenodo.3743276
 
 My research question: 
 What is the minimum number of months one must track a bird to get a reliable estimate of its home-range size?
